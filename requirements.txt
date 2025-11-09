@@ -1,0 +1,8 @@
+streamlit
+easyocr
+pillow
+numpy
+google-generativeai
+gtts
+SpeechRecognition
+langdetect
